@@ -1,0 +1,24 @@
+{
+  "name": "fsdday4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "express-handlebars": "^5.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfchan17/fsdday4.git"
+  },
+  "author": "ccf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfchan17/fsdday4/issues"
+  },
+  "homepage": "https://github.com/cfchan17/fsdday4#readme"
+}
